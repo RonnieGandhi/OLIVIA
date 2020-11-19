@@ -1,6 +1,10 @@
-# Btech project done by Ronnie Gandhi and Jaynil Jaiswal.
-## ENJOY: Enhanced Neurons Juicing Operations Youthfully
-* This is a digital assitant capable of hanlding various tasks based on voice commands.
+# ENJOY: Enhanced Neurons Juicing Operations Youthfully
+### This is a Digital Assitant capable of hanlding various tasks based on voice commands.
+### B.tech project Computer Science IIT Roorkee
+### Students: Gandhi Ronnie and Jaynil Jaiswal.
+### Mentored by: Prof. Partha Pratim Roy
+
+Here is the workflow UI for the idea of our digital assistant.
 
 ![Workflow_UI](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/Workflow_UI.png)
 
