@@ -19,9 +19,9 @@ In the flow diagram above there are some primary modules essential for running a
 
 **Feature List Data**: For each feature we contain a word cloud/dictionary to be offered for semantic similarity based searching in the NLU-shell module.
 
-**Task Optimizer/Schedular**: It will handle the processing power needs for each of these models and load or unload them whenever not required immediately. (Currently we are constructing a baseline architecture hence not required but will become essential as the complexity of the model increases after the feature list grows)
+**Question And Answering** (CPU inference): Using the basic BERT based question answering for SQUAD-2.0 task but we can upgrade to better performing models as well. Current model is also giving great results. This is very important module to take care of finding information from the paragraphs extracted from the web in Find Information feature also might be helpful in other features like messaging.(Ready to integrate)
 
-**Question And Answering** (CPU inference): Using the basic BERT based question answering for SQUAD-2.0 task but we can upgrade to better performing models as well. Current model is also giving great results. This is very important module to take care of finding information from the paragraphs extracted from the web in Find Information feature also might be helpful in other features like messaging.
+**Task Optimizer/Schedular**: It will handle the processing power needs for each of these models and load or unload them whenever not required immediately. (Currently we are constructing a baseline architecture hence not required but will become essential as the complexity of the model increases after the feature list grows)
 
 ### Secondary Modules:
 
@@ -53,5 +53,4 @@ In the flow diagram above there are some primary modules essential for running a
 
 **Handle Call and extract information or send a relevant information**: Attending call from someone mode when the user is busy so as to note down important message to be conveyed to the user later. Aslo pulling a call to pass a particular information. (This feature needs some thinking)
 
-**Trending news**: Searches top websites to get trending news of the day.
-Trending news finder:
+**Trending news**: Searches top websites to get trending news of the day. Can be used to track updates on a particular ongoing event.
