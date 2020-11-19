@@ -1,5 +1,5 @@
 # ENJOY: Enhanced Neurons Juicing Operations Youthfully
-### This is a Digital Assitant capable of hanlding various tasks based on voice commands.
+### This is a Digital Assitant capable of handling various tasks based on voice commands.
 #### B.tech project Computer Science IIT Roorkee
 **Students**: Gandhi Ronnie and Jaynil Jaiswal.
 
