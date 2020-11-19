@@ -19,7 +19,7 @@ In the flow diagram above there are some primary modules essential for running a
 
 **Question And Answering** (CPU inference): Using the basic BERT based question answering for SQUAD-2.0 task but we can upgrade to better performing models as well. Current model is also giving great results. This is very important module to take care of finding information from the paragraphs extracted from the web in Find Information feature also might be helpful in other features like messaging.(Ready to integrate)
 
-**DeepPunctuation**: This model adds punctuation to the plain text. We use this to add punctuation for the text generated from chatbot or any other place(where there isn't one). Well punctuated sentence help in better text to speech conversion generating voice with proper tonality(which our text-to-speech model is capable of). (Ready to integrate)
+**DeepPunctuation** (CPU inference): This model adds punctuation to the plain text. We use this to add punctuation for the text generated from chatbot or any other place(where there isn't one). Well punctuated sentence help in better text to speech conversion generating voice with proper tonality(which our text-to-speech model is capable of). (Ready to integrate)
 
 **Feature List Data**: For each feature we contain a word cloud/dictionary to be offered for semantic similarity based searching in the NLU-shell module.
 
