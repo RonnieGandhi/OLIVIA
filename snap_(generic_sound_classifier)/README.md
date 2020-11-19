@@ -26,7 +26,9 @@ python MSoS_demo_generalisation.py
 
 Below are the views of the demo when speech and snap sounds were dominant part of the audio input.
 
-![speech_found.png](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/snap_(generic_sound_classifier)/images/speech_found.png)   ![snap_found.png](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/snap_(generic_sound_classifier)/images/snap_found.png)
+![speech_found.png](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/snap_(generic_sound_classifier)/images/speech_found.png)
+
+![snap_found.png](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/snap_(generic_sound_classifier)/images/snap_found.png)
 
 
 ## Citation
