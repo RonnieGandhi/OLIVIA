@@ -5,7 +5,9 @@
 
 **Mentored by**: Prof. Partha Pratim Roy
 
-Here is the workflow UI for the idea of our digital assistant.
+Here is the workflow UI for the idea of our digital assistant. 
+
+## The work has been shifted to: https://github.com/JaynilJaiswal/Olivia-Webapp
 
 ![Workflow_UI](https://github.com/RonnieGandhi/ENJOY-Enhanced-Neurons-Juicing-Operations-Youthfully/blob/main/workflow_ui.png)
 
